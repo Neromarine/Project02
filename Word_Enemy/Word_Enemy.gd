@@ -1,7 +1,7 @@
 extends KinematicBody2D
 
 var velocity = Vector2.ZERO
-var small_speed = 1.0
+var small_speed = 2.0
 var initial_speed = 1.0
 var health = 1
 var Letter
